@@ -6,4 +6,4 @@
   
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=earthrulerr&show_icons=true&locale=en&layout=compact" alt="earthrulerr" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earthrulerr&" alt="earthrulerr" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=earthrulerr&show_icons=true&locale=en" alt="earthrulerr" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=earthrulerr&show_icons=true&locale=en" alt="earthrulerr" /></p>
