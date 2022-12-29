@@ -1,4 +1,4 @@
-<p align="center"><b><big><h1>Hi, i'm earthrulerr.</h></big></b><br>
+<p align="center"><b><big><h1># EarthRulerr</h></big></b><br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=earthrulerrh&label=Profile%20views&color=0e75b6&style=flat" alt="earthrulerr"/>
   
@@ -6,4 +6,9 @@
 
 | <a href="https://github.com/earthrulerr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=earthrulerr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Github Stats" /></a> | <a href="https://github.com/earthrulerr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=earthrulerr&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earthrulerr&" alt="earthrulerr" /></p>|
+|<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=earthrulerr&" alt="earthrulerr" /></p>
+<br>
+<h># Featured Repo</h>
+<br><br>
+<a href="https://github.com/earthrulerr/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earthrulerr&repo=NBAS&theme=buefy" />
+</a>
