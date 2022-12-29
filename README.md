@@ -10,5 +10,5 @@
 <br>
 <h># Featured Repo</h>
 <br><br>
-<a href="https://github.com/earthrulerr/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earthrulerr&repo=NBAS&theme=buefy" />
+<a href="https://github.com/EarthRulerr/NBAS"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=earthrulerr&repo=NBAS&theme=buefy" />
 </a>
