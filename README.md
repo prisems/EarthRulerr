@@ -1,4 +1,4 @@
-<p align="center"><b><big><h1># <a href="https://earthrulerr.is-a.dev">earthrulerr</a></h></big></b><br>
+<p align="center"><b><big><h1> >> <a href="https://earthrulerr.is-a.dev" style="text-decoration: none;">earthrulerr</a></h></big></b><br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=earthrulerrh&label=Profile%20views&color=0e75b6&style=flat" alt="earthrulerr"/>
   
